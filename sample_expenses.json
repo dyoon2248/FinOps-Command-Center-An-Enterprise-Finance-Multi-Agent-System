@@ -1,0 +1,182 @@
+[
+  {
+    "id": "EXP-001",
+    "description": "Round-trip flight SFO to JFK for client meeting",
+    "amount": 1247.50,
+    "category": "Travel",
+    "date": "2026-06-02",
+    "employee": "Sarah Chen",
+    "department": "Sales",
+    "status": "approved"
+  },
+  {
+    "id": "EXP-002",
+    "description": "Annual Figma Enterprise license renewal",
+    "amount": 4500.00,
+    "category": "Software",
+    "date": "2026-06-05",
+    "employee": "Marcus Rivera",
+    "department": "Design",
+    "status": "approved"
+  },
+  {
+    "id": "EXP-003",
+    "description": "Google Ads campaign - Q3 product launch",
+    "amount": 12800.00,
+    "category": "Marketing",
+    "date": "2026-06-08",
+    "employee": "Priya Patel",
+    "department": "Marketing",
+    "status": "approved"
+  },
+  {
+    "id": "EXP-004",
+    "description": "Ergonomic standing desks (x5) for new hires",
+    "amount": 3750.00,
+    "category": "Office Supplies",
+    "date": "2026-06-10",
+    "employee": "James O'Brien",
+    "department": "Operations",
+    "status": "approved"
+  },
+  {
+    "id": "EXP-005",
+    "description": "Client dinner at Nobu - Acme Corp deal close",
+    "amount": 892.30,
+    "category": "Meals & Entertainment",
+    "date": "2026-06-12",
+    "employee": "Sarah Chen",
+    "department": "Sales",
+    "status": "approved"
+  },
+  {
+    "id": "EXP-006",
+    "description": "External security audit - SOC 2 compliance",
+    "amount": 18500.00,
+    "category": "Professional Services",
+    "date": "2026-06-14",
+    "employee": "David Kim",
+    "department": "Engineering",
+    "status": "approved"
+  },
+  {
+    "id": "EXP-007",
+    "description": "LinkedIn Recruiter seat - 6 month subscription",
+    "amount": 5399.00,
+    "category": "Software",
+    "date": "2026-06-15",
+    "employee": "Ana Torres",
+    "department": "HR",
+    "status": "pending"
+  },
+  {
+    "id": "EXP-008",
+    "description": "Hotel stay (3 nights) - AWS re:Invent conference",
+    "amount": 1890.00,
+    "category": "Travel",
+    "date": "2026-06-17",
+    "employee": "Raj Gupta",
+    "department": "Engineering",
+    "status": "approved"
+  },
+  {
+    "id": "EXP-009",
+    "description": "Team lunch - quarterly all-hands celebration",
+    "amount": 645.80,
+    "category": "Meals & Entertainment",
+    "date": "2026-06-18",
+    "employee": "Marcus Rivera",
+    "department": "Design",
+    "status": "approved"
+  },
+  {
+    "id": "EXP-010",
+    "description": "Sponsored blog post - TechCrunch partnership",
+    "amount": 7500.00,
+    "category": "Marketing",
+    "date": "2026-06-19",
+    "employee": "Priya Patel",
+    "department": "Marketing",
+    "status": "pending"
+  },
+  {
+    "id": "EXP-011",
+    "description": "Printer toner and paper supplies (bulk order)",
+    "amount": 289.45,
+    "category": "Office Supplies",
+    "date": "2026-06-20",
+    "employee": "James O'Brien",
+    "department": "Operations",
+    "status": "approved"
+  },
+  {
+    "id": "EXP-012",
+    "description": "Legal review of vendor contract - Meridian LLC",
+    "amount": 3200.00,
+    "category": "Professional Services",
+    "date": "2026-06-21",
+    "employee": "David Kim",
+    "department": "Legal",
+    "status": "approved"
+  },
+  {
+    "id": "EXP-013",
+    "description": "Uber rides - client site visits (June)",
+    "amount": 342.60,
+    "category": "Travel",
+    "date": "2026-06-22",
+    "employee": "Sarah Chen",
+    "department": "Sales",
+    "status": "approved"
+  },
+  {
+    "id": "EXP-014",
+    "description": "Datadog APM annual plan upgrade",
+    "amount": 8900.00,
+    "category": "Software",
+    "date": "2026-06-23",
+    "employee": "Raj Gupta",
+    "department": "Engineering",
+    "status": "pending"
+  },
+  {
+    "id": "EXP-015",
+    "description": "Conference sponsorship - PyCon 2026 Gold tier",
+    "amount": 15000.00,
+    "category": "Marketing",
+    "date": "2026-06-25",
+    "employee": "Priya Patel",
+    "department": "Marketing",
+    "status": "rejected"
+  },
+  {
+    "id": "EXP-016",
+    "description": "Monitor arms and cable management kits (x10)",
+    "amount": 1120.00,
+    "category": "Office Supplies",
+    "date": "2026-06-26",
+    "employee": "James O'Brien",
+    "department": "Operations",
+    "status": "approved"
+  },
+  {
+    "id": "EXP-017",
+    "description": "Client appreciation dinner - Zenith Partners",
+    "amount": 1340.75,
+    "category": "Meals & Entertainment",
+    "date": "2026-06-27",
+    "employee": "Ana Torres",
+    "department": "Sales",
+    "status": "pending"
+  },
+  {
+    "id": "EXP-018",
+    "description": "Tax advisory services - Q2 filing preparation",
+    "amount": 6800.00,
+    "category": "Professional Services",
+    "date": "2026-06-28",
+    "employee": "David Kim",
+    "department": "Finance",
+    "status": "approved"
+  }
+]

@@ -1,0 +1,66 @@
+[
+  {
+    "category": "Engineering",
+    "allocated_amount": 185000.00,
+    "spent_amount": 142300.00,
+    "period": "Q3 2026",
+    "department": "Engineering",
+    "fiscal_year": 2026
+  },
+  {
+    "category": "Marketing",
+    "allocated_amount": 95000.00,
+    "spent_amount": 103800.00,
+    "period": "Q3 2026",
+    "department": "Marketing",
+    "fiscal_year": 2026
+  },
+  {
+    "category": "Sales",
+    "allocated_amount": 72000.00,
+    "spent_amount": 58420.50,
+    "period": "Q3 2026",
+    "department": "Sales",
+    "fiscal_year": 2026
+  },
+  {
+    "category": "Operations",
+    "allocated_amount": 45000.00,
+    "spent_amount": 48950.00,
+    "period": "Q3 2026",
+    "department": "Operations",
+    "fiscal_year": 2026
+  },
+  {
+    "category": "Human Resources",
+    "allocated_amount": 38000.00,
+    "spent_amount": 29750.00,
+    "period": "Q3 2026",
+    "department": "HR",
+    "fiscal_year": 2026
+  },
+  {
+    "category": "Legal & Compliance",
+    "allocated_amount": 55000.00,
+    "spent_amount": 31450.00,
+    "period": "Q3 2026",
+    "department": "Legal",
+    "fiscal_year": 2026
+  },
+  {
+    "category": "Design",
+    "allocated_amount": 32000.00,
+    "spent_amount": 27800.00,
+    "period": "Q3 2026",
+    "department": "Design",
+    "fiscal_year": 2026
+  },
+  {
+    "category": "Finance & Administration",
+    "allocated_amount": 28000.00,
+    "spent_amount": 21600.00,
+    "period": "Q3 2026",
+    "department": "Finance",
+    "fiscal_year": 2026
+  }
+]

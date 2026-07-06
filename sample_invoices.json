@@ -1,0 +1,135 @@
+[
+  {
+    "id": "INV-001",
+    "vendor_name": "CloudScale Infrastructure Inc.",
+    "invoice_number": "CS-2026-0847",
+    "amount": 24500.00,
+    "date_issued": "2026-06-01",
+    "date_due": "2026-07-01",
+    "line_items": [
+      { "description": "AWS Reserved Instances - Production", "quantity": 1, "unit_price": 18000.00 },
+      { "description": "AWS Reserved Instances - Staging", "quantity": 1, "unit_price": 4500.00 },
+      { "description": "Data Transfer Overage (June)", "quantity": 1, "unit_price": 2000.00 }
+    ],
+    "status": "paid",
+    "notes": "Annual contract; auto-renews August 2026."
+  },
+  {
+    "id": "INV-002",
+    "vendor_name": "Meridian Legal Group LLP",
+    "invoice_number": "MLG-11452",
+    "amount": 9750.00,
+    "date_issued": "2026-06-05",
+    "date_due": "2026-07-05",
+    "line_items": [
+      { "description": "Contract Review - Vendor Agreements", "quantity": 12, "unit_price": 450.00 },
+      { "description": "IP Filing Consultation", "quantity": 5, "unit_price": 510.00 }
+    ],
+    "status": "approved",
+    "notes": "Retainer hours applied; 3 hours remaining this quarter."
+  },
+  {
+    "id": "INV-003",
+    "vendor_name": "BrightPixel Design Studio",
+    "invoice_number": "BP-2026-0193",
+    "amount": 16200.00,
+    "date_issued": "2026-06-10",
+    "date_due": "2026-07-10",
+    "line_items": [
+      { "description": "Brand Identity Refresh - Phase 2", "quantity": 1, "unit_price": 8500.00 },
+      { "description": "Marketing Collateral Design (12 assets)", "quantity": 12, "unit_price": 425.00 },
+      { "description": "Motion Graphics Package", "quantity": 1, "unit_price": 2600.00 }
+    ],
+    "status": "pending",
+    "notes": "Deliverables received; awaiting stakeholder sign-off."
+  },
+  {
+    "id": "INV-004",
+    "vendor_name": "TalentBridge Recruiting",
+    "invoice_number": "TB-06-2026-331",
+    "amount": 32000.00,
+    "date_issued": "2026-06-12",
+    "date_due": "2026-07-12",
+    "line_items": [
+      { "description": "Placement Fee - Senior Backend Engineer", "quantity": 1, "unit_price": 18000.00 },
+      { "description": "Placement Fee - Product Designer", "quantity": 1, "unit_price": 14000.00 }
+    ],
+    "status": "approved",
+    "notes": "90-day guarantee period; both candidates started June 9."
+  },
+  {
+    "id": "INV-005",
+    "vendor_name": "SecureNet Cyber Solutions",
+    "invoice_number": "SN-2026-0612",
+    "amount": 18500.00,
+    "date_issued": "2026-06-14",
+    "date_due": "2026-07-14",
+    "line_items": [
+      { "description": "Penetration Testing - External", "quantity": 1, "unit_price": 8500.00 },
+      { "description": "Penetration Testing - Internal", "quantity": 1, "unit_price": 6500.00 },
+      { "description": "SOC 2 Type II Audit Support", "quantity": 1, "unit_price": 3500.00 }
+    ],
+    "status": "paid",
+    "notes": "Final report delivered. Remediation items tracked in Jira."
+  },
+  {
+    "id": "INV-006",
+    "vendor_name": "Pinnacle Office Solutions",
+    "invoice_number": "POS-78234",
+    "amount": 5870.00,
+    "date_issued": "2026-06-18",
+    "date_due": "2026-07-18",
+    "line_items": [
+      { "description": "Ergonomic Standing Desk - Pro Model", "quantity": 5, "unit_price": 750.00 },
+      { "description": "Delivery & Assembly Fee", "quantity": 5, "unit_price": 120.00 },
+      { "description": "Anti-fatigue Floor Mats", "quantity": 5, "unit_price": 44.00 }
+    ],
+    "status": "pending",
+    "notes": "Delivery scheduled for June 30."
+  },
+  {
+    "id": "INV-007",
+    "vendor_name": "DataStream Analytics Corp.",
+    "invoice_number": "DSA-Q3-0001",
+    "amount": 41600.00,
+    "date_issued": "2026-06-20",
+    "date_due": "2026-08-19",
+    "line_items": [
+      { "description": "Enterprise Analytics Platform - Q3 License", "quantity": 1, "unit_price": 28000.00 },
+      { "description": "Premium Support Add-on", "quantity": 1, "unit_price": 5600.00 },
+      { "description": "Custom Dashboard Development (40 hrs)", "quantity": 40, "unit_price": 200.00 }
+    ],
+    "status": "pending",
+    "notes": "Net-60 payment terms. Volume discount applied (-8%)."
+  },
+  {
+    "id": "INV-008",
+    "vendor_name": "GreenLeaf Catering Co.",
+    "invoice_number": "GL-2026-1847",
+    "amount": 3420.00,
+    "date_issued": "2026-06-22",
+    "date_due": "2026-07-07",
+    "line_items": [
+      { "description": "All-Hands Lunch Catering (120 pax)", "quantity": 120, "unit_price": 22.50 },
+      { "description": "Beverage Service Package", "quantity": 1, "unit_price": 450.00 },
+      { "description": "Setup & Cleanup Staff (4 hrs)", "quantity": 4, "unit_price": 67.50 }
+    ],
+    "status": "paid",
+    "notes": "Event on June 18. Positive feedback received."
+  },
+  {
+    "id": "INV-009",
+    "vendor_name": "NovaTech Hardware Supply",
+    "invoice_number": "NT-INV-55891",
+    "amount": 14280.00,
+    "date_issued": "2026-06-25",
+    "date_due": "2026-07-25",
+    "line_items": [
+      { "description": "Dell Latitude 7450 Laptop", "quantity": 6, "unit_price": 1850.00 },
+      { "description": "Dell UltraSharp 27\" Monitor", "quantity": 6, "unit_price": 520.00 },
+      { "description": "Docking Station + Peripherals Kit", "quantity": 6, "unit_price": 210.00 }
+    ],
+    "status": "approved",
+    "notes": "Equipment for Q3 new hires. Asset tags pending."
+  }
+]

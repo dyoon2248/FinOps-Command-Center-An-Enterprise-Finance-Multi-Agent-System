@@ -1,0 +1,22 @@
+[build-system]
+requires = ["setuptools>=68.0", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "finops-agent"
+version = "1.0.0"
+description = "FinOps Command Center - Enterprise Finance Multi-Agent System (Kaggle AI Agents Capstone)"
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = [
+    "google-adk>=1.0.0",
+    "mcp>=1.0.0",
+    "python-dotenv>=1.0.0",
+    "pytest>=8.0.0",
+]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+
+[tool.setuptools.packages.find]
+include = ["finops_agent*"]
